@@ -1,0 +1,1 @@
+#Corta o fio fermelho, assim não ira explodir.
