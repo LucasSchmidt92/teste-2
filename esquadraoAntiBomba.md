@@ -1,1 +1,1 @@
-#Corta o fio fermelho, assim não ira explodir.
+#Corta o fio vermelho, assim não ira explodir.
