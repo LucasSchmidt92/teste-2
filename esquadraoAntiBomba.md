@@ -1,0 +1,1 @@
+#Corta o fio vermelho, assim não ira explodir.
